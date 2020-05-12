@@ -1,0 +1,10 @@
+body {
+  height: 100vh;
+  background: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: pink;
+  font-size: 54px;
+  width: 100%;
+}
