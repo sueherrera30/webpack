@@ -1,0 +1,14 @@
+body {
+  background: pink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  font-size: 40px;
+  font-family: system-ui;
+  color:#f171e796;
+  text-shadow: 1px 1px 1px black;
+  animation: 300ms latido infinite;
+}
+
