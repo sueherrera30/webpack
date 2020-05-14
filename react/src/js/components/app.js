@@ -9,7 +9,7 @@ function App() {
 }
   return (
     <div>
-      {/* <h4>Que bonito combinan react y webpack, ya anden </h4> */}
+      <h4>Que bonito combinan react y webpack, ya anden </h4>
       <ul>
         {
           loaderList.map(item => <Loader {...item} />)
